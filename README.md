@@ -8,7 +8,11 @@ The gameplay is a simulation of a computer desktop, and involves typing emails, 
 
 A special "blood pressure" meter will gradually fill itself the more the protagonist is bothered by bureaucratic annoyances. Once this meter is completely full, the player character suffers an aneurysm, and the game ends.
 
-### Prerequisites
+Initial version vibe-coded using OpenRouter and KAT-Coder-Pro V1.
+
+---
+
+# Developer notes
 
 - **Node.js**: Version 16.0.0 or higher
 - **npm**: Version 8.0.0 or higher (or yarn/pnpm)
